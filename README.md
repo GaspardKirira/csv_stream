@@ -1,2 +1,7 @@
 # csv_stream
-Streaming CSV reader for large files.
+
+Header-only C++ library scaffold.
+
+```bash
+vix tests
+```

@@ -1,0 +1,27 @@
+{
+  "name": "csv_stream",
+  "namespace": "gk",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "Streaming CSV reader for large files in C++.",
+  "keywords": [
+    "csv",
+    "csv-parser",
+    "csv-reader",
+    "streaming",
+    "data-processing",
+    "file-processing",
+    "cpp",
+    "header-only",
+    "vix"
+  ],
+  "repository": "https://github.com/Gaspardkirira/csv_stream",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ]
+}
